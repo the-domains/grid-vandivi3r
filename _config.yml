@@ -1,6 +1,6 @@
 name: John Vandivier
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.23185358080081642
 title: John Vandivier
 cta:
   domain: null
@@ -21,3 +21,4 @@ color:
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
+typography_spectrum: 0.0691632789094001
